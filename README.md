@@ -1,4 +1,4 @@
-# Qlik Sense: Financial Sales Dashboard
+# Qlik Sense: Sales Dashboard
 
 ### 🔴 Live Demo (Video)
 
