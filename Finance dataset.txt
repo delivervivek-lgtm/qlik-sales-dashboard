@@ -1,0 +1,22 @@
+Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales,COGS,Profit,Date,Month Number,Month Name,Year
+Government,Canada,Carretera,None,1618.5,3,20,32370,0,32370,16185,16185,1/1/2014,1,January,2014
+Government,Germany,Carretera,None,1321,3,20,26420,0,26420,13210,13210,1/1/2014,1,January,2014
+Midmarket,France,Carretera,None,2178,3,15,32670,0,32670,21780,10890,6/1/2014,6,June,2014
+Midmarket,Germany,Carretera,None,888,3,15,13320,0,13320,8880,4440,6/1/2014,6,June,2014
+Midmarket,Mexico,Carretera,None,2470,3,15,37050,0,37050,24700,12350,6/1/2014,6,June,2014
+Government,Germany,Carretera,None,1513,3,350,529550,0,529550,393380,136170,12/1/2014,12,December,2014
+Government,Mexico,Carretera,None,2151,3,350,752850,0,752850,559260,193590,12/1/2014,12,December,2014
+Channel Partners,Canada,Paseo,None,912,10,350,319200,0,319200,237120,82080,10/1/2014,10,October,2014
+Government,France,Paseo,None,2518,10,20,50360,0,50360,25180,25180,3/1/2014,3,March,2014
+Channel Partners,Germany,Paseo,None,1243,10,350,435050,0,435050,323180,111870,4/1/2014,4,April,2014
+Government,France,Paseo,None,1893,10,350,662550,0,662550,492180,170370,6/1/2014,6,June,2014
+Enterprise,Canada,Velo,None,2152,120,250,538000,0,538000,258240,279760,4/1/2014,4,April,2014
+Midmarket,Mexico,Velo,None,974,120,15,14610,0,14610,9740,4870,7/1/2014,7,July,2014
+Enterprise,France,Velo,None,2165,120,125,270625,0,270625,259800,10825,9/1/2014,9,September,2014
+Government,Canada,Velo,None,2518,120,20,50360,0,50360,25180,25180,10/1/2014,10,October,2014
+Government,Mexico,Velo,None,1143,120,350,399000,7980,391020,319800,71220,11/1S/2013,11,November,2013
+Government,United States of America,Velo,High,214.5,120,7,1501.5,150.15,1351.35,1072.5,278.85,11/1/2014,11,November,2014
+Midmarket,United States of America,Amarilla,Low,2478,260,15,37170,371.7,36798.3,24780,12018.3,9/1/2014,9,September,2014
+Government,France,Amarilla,Medium,1832,260,350,641200,32060,609140,512960,96180,3/1/2014,3,March,2014
+Enterprise,Canada,Montana,None,299,250,500,149500,0,149500,74750,74750,7/1/2014,7,July,2014
+Channel Partners,France,Montana,None,2155,250,350,754250,0,754250,560300,193950,9/1/2014,9,September,2014
